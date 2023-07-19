@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./ftrack-connect-plugins/ftrack-connect-pipeline-1.3.0/dependencies"
+    ]
+}

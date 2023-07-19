@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: ftrack-connect-pipeline-qt
+Version: 1.3.0
+Summary: Ftrack qt pipeline integration framework.
+Home-page: https://bitbucket.org/ftrack/ftrack-connect-pipeline-qt
+Author: ftrack
+Author-email: support@ftrack.com
+License: Apache License (2.0)
+Keywords: ftrack
+Platform: UNKNOWN
+Requires-Python: <3.10
+License-File: LICENSE.txt
+Requires-Dist: Qt.py (<2,>=1.0.0)
+
+# ftrack-connect-pipeline-qt
+
+

@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: ftrack-connect-pipeline-maya
+Version: 1.2.0
+Summary: A dialog to publish package from Maya to ftrack
+Home-page: https://bitbucket.org/ftrack/ftrack-connect-pipeline-maya
+Author: ftrack
+Author-email: support@ftrack.com
+License: Apache License (2.0)
+Keywords: ftrack
+Platform: UNKNOWN
+License-File: LICENSE.txt
+
+# ftrack-connect-pipeline_maya
+
+

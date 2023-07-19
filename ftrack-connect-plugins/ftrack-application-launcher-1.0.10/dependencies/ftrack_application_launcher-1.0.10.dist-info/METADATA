@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: ftrack-application-launcher
+Version: 1.0.10
+Summary: Base Class for handling application startup.
+Home-page: https://bitbucket.org/ftrack/ftrack-application-launcher
+Author: ftrack
+Author-email: support@ftrack.com
+License: Apache License (2.0)
+Keywords: ftrack
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3, <4
+License-File: LICENSE.txt
+Requires-Dist: ftrack-python-api (<3,>=2)
+Requires-Dist: ftrack-action-handler
+Requires-Dist: future
+
+# ftrack-application-launcher
+
+*A configurable launcher for integrations.*
+
+Warning
+
+This code is work in progress and aimed to work on an upcoming version
+of ftrack-connect. This code is not officially released and should not
+be used in production.
+
+## Documentation
+
+Full documentation, including installation and setup guides, can be
+found at <https://ftrack-application-launcher.readthedocs.io/en/latest/>
+
+

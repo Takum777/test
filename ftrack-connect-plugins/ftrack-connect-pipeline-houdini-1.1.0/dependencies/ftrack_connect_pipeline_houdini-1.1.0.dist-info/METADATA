@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: ftrack-connect-pipeline-houdini
+Version: 1.1.0
+Summary: A dialog to publish package from houdini to ftrack
+Home-page: https://bitbucket.org/ftrack/ftrack-connect-pipeline-houdini
+Author: ftrack
+Author-email: support@ftrack.com
+License: Apache License (2.0)
+Keywords: ftrack
+Platform: UNKNOWN
+Requires-Python: <3.8
+License-File: LICENSE.txt
+
+# ftrack-connect-pipeline_houdini
+
+

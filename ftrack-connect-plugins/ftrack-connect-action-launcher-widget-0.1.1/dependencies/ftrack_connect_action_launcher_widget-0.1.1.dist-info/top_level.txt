@@ -1,0 +1,1 @@
+ftrack_connect_action_launcher_widget

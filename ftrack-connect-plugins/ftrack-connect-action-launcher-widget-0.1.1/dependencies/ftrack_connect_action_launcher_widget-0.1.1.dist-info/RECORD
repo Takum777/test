@@ -1,0 +1,14 @@
+ftrack_connect_action_launcher_widget-0.1.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+ftrack_connect_action_launcher_widget-0.1.1.dist-info/LICENSE.txt,sha256=bR2Wj7Il7KNny38LiDGrASo12StUfpReF--OewXD5cw,10349
+ftrack_connect_action_launcher_widget-0.1.1.dist-info/METADATA,sha256=1VwEi8mwXC6PeWbsIBpjSf-jinHXWnM1KrP7aoY86gY,1474
+ftrack_connect_action_launcher_widget-0.1.1.dist-info/RECORD,,
+ftrack_connect_action_launcher_widget-0.1.1.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ftrack_connect_action_launcher_widget-0.1.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+ftrack_connect_action_launcher_widget-0.1.1.dist-info/direct_url.json,sha256=Togl3zqDYAYAOww8d_5qm43aG1jMZ_RZ2_arnpVpWVM,112
+ftrack_connect_action_launcher_widget-0.1.1.dist-info/top_level.txt,sha256=sSfaK89W4E6O-b-396k7nlwpVD5xierVfFdo3Tn-xNU,38
+ftrack_connect_action_launcher_widget/__init__.py,sha256=e1DXanvTLSMgmdX3trYGj_Nv4jop0KqH2p965NraZY8,96
+ftrack_connect_action_launcher_widget/__pycache__/__init__.cpython-37.pyc,,
+ftrack_connect_action_launcher_widget/__pycache__/_version.cpython-37.pyc,,
+ftrack_connect_action_launcher_widget/__pycache__/actions.cpython-37.pyc,,
+ftrack_connect_action_launcher_widget/_version.py,sha256=aL7uXo3zAmO7PEPl9NDdS1sgVkz_lIC1V7EW5Z7IJi0,91
+ftrack_connect_action_launcher_widget/actions.py,sha256=lZu2EZ6d2U4Z-pjztnKl1HoBIROy4nN1gE6aejKKcLk,13414

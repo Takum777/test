@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: ftrack-connect-pipeline
+Version: 1.3.0
+Summary: Ftrack core pipeline integration framework.
+Home-page: https://bitbucket.org/ftrack/ftrack-connect-pipeline
+Author: ftrack
+Author-email: support@ftrack.com
+License: Apache License (2.0)
+Keywords: ftrack
+Platform: UNKNOWN
+Requires-Python: <3.10
+License-File: LICENSE.txt
+Requires-Dist: ftrack-python-api (<3,>=1)
+Requires-Dist: future (<1,>=0.16.0)
+Requires-Dist: six (<2,>=1)
+Requires-Dist: jsonschema (==2.6.0)
+Requires-Dist: appdirs
+Requires-Dist: python-jsonschema-objects (<=0.3.12)
+Requires-Dist: jsonref
+Requires-Dist: markdown (<=3.2.2)
+Requires-Dist: importlib-metadata (<5.0)
+
+# ftrack-connect-pipeline
+

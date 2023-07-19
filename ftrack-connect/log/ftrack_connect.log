@@ -1,0 +1,738 @@
+2023-03-10 12:24:31,351     INFO MainThread (0108) root - Saving log file to: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\log\ftrack_connect.log
+2023-03-10 12:24:31,351    DEBUG MainThread (0059) ftrack_connect.singleton - SingleInstance lockfile: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock
+2023-03-10 12:24:31,367    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins' for plugin hooks.
+2023-03-10 12:24:31,367    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins'.
+2023-03-10 12:24:31,367    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-03-10 12:24:31,367    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-03-10 12:24:31,367     INFO MainThread (0751) ftrack_connect.ui.application.Application - Connect plugin hooks directories: C:\Program Files (x86)\ftrack Connect\resource\hook
+2023-03-10 12:24:31,398    DEBUG MainThread (0387) ftrack_connect.ui.application.Application - Setting theme light
+2023-03-10 12:24:32,006     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded False
+2023-03-10 12:25:05,865     INFO MainThread (0048) ftrack.connect.publish.make-web-playable - Subscribing to event topic: 'ftrack.connect.publish.make-web-playable'
+2023-03-10 12:25:05,865    DEBUG MainThread (0070) ftrack.connect.publish.make-web-playable - Plugin registered
+2023-03-10 12:25:05,865     INFO MainThread (0071) ftrack_connect.publish-components - Subscribing to event topic: 'ftrack.connect.publish-components'
+2023-03-10 12:25:05,865    DEBUG MainThread (0093) ftrack_connect.publish-components - Plugin registered
+2023-03-10 12:25:05,865     INFO MainThread (0133) ftrack_connect.resolver.register - Subscribing to topic ftrack.location.request-resolve
+2023-03-10 12:25:20,849    DEBUG Thread-5 (0130) root - Downloading https://download.ftrack.com/ftrack-connect/integrations/ftrack-connect-plugin-manager-0.1.5.zip to C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-plugin-manager-0.1.5.zip
+2023-03-10 12:25:20,965    DEBUG Thread-5 (0158) root - Installing C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-plugin-manager-0.1.5.zip to C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-plugin-manager-0.1.5
+2023-03-10 12:25:25,159     INFO MainThread (0238) ftrack_connect.ui.application.Application - Connect restarting....
+2023-03-10 12:25:25,159    DEBUG MainThread (0089) ftrack_connect.singleton - Attempting to remove lockfile.
+2023-03-10 12:25:25,159    DEBUG MainThread (0103) ftrack_connect.singleton - Singleton C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock removed.
+2023-03-10 12:25:25,159    DEBUG MainThread (0259) ftrack_connect.ui.application.Application - Connect restarting with :: path: C:/Program Files (x86)/ftrack Connect/ftrack_connect.exe argv: []
+2023-03-10 12:25:25,159    DEBUG MainThread (0266) ftrack_connect.ui.application.Application - Connect restarted with status True
+2023-03-10 12:25:25,801     INFO MainThread (0108) root - Saving log file to: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\log\ftrack_connect.log
+2023-03-10 12:25:25,801    DEBUG MainThread (0059) ftrack_connect.singleton - SingleInstance lockfile: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock
+2023-03-10 12:25:25,811    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins' for plugin hooks.
+2023-03-10 12:25:25,811    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found ['C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-plugin-manager-0.1.5\\hook'] plugin hooks in 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins'.
+2023-03-10 12:25:25,811    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-03-10 12:25:25,811    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-03-10 12:25:25,812    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-03-10 12:25:25,812    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-03-10 12:25:25,812     INFO MainThread (0751) ftrack_connect.ui.application.Application - Connect plugin hooks directories: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-plugin-manager-0.1.5\hook, C:\Program Files (x86)\ftrack Connect\resource\hook
+2023-03-10 12:25:25,840    DEBUG MainThread (0387) ftrack_connect.ui.application.Application - Setting theme light
+2023-03-10 12:25:26,036    DEBUG MainThread (0029) ftrack_connect.ui.config - Reading config from C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\config.json
+2023-03-10 12:25:26,516    DEBUG MainThread (0029) ftrack_connect.ui.config - Reading config from C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\config.json
+2023-03-10 12:25:26,668     INFO MainThread (0048) ftrack.connect.publish.make-web-playable - Subscribing to event topic: 'ftrack.connect.publish.make-web-playable'
+2023-03-10 12:25:26,668    DEBUG MainThread (0070) ftrack.connect.publish.make-web-playable - Plugin registered
+2023-03-10 12:25:26,684     INFO MainThread (0071) ftrack_connect.publish-components - Subscribing to event topic: 'ftrack.connect.publish-components'
+2023-03-10 12:25:26,684    DEBUG MainThread (0093) ftrack_connect.publish-components - Plugin registered
+2023-03-10 12:25:26,684     INFO MainThread (0133) ftrack_connect.resolver.register - Subscribing to topic ftrack.location.request-resolve
+2023-03-10 12:25:26,716     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded False
+2023-03-10 12:25:30,194     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-03-10 12:25:48,731    DEBUG Thread-6 (0098) root - Downloading https://download.ftrack.com/ftrack-connect/integrations/ftrack-application-launcher-1.0.8.zip to C:\Users\Oksana\AppData\Local\Temp\ftrack-application-launcher-1.0.8.zip
+2023-03-10 12:25:49,433    DEBUG Thread-6 (0131) root - Installing C:\Users\Oksana\AppData\Local\Temp\ftrack-application-launcher-1.0.8.zip to C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-application-launcher-1.0.8
+2023-03-10 12:25:49,934    DEBUG Thread-6 (0098) root - Downloading https://download.ftrack.com/ftrack-connect/integrations/ftrack-connect-pipeline-1.2.0.zip to C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-1.2.0.zip
+2023-03-10 12:25:50,673    DEBUG Thread-6 (0131) root - Installing C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-1.2.0.zip to C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-1.2.0
+2023-03-10 12:25:51,353    DEBUG Thread-6 (0098) root - Downloading https://download.ftrack.com/ftrack-connect/integrations/ftrack-connect-pipeline-definition-1.2.0.zip to C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-definition-1.2.0.zip
+2023-03-10 12:25:51,538    DEBUG Thread-6 (0131) root - Installing C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-definition-1.2.0.zip to C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-definition-1.2.0
+2023-03-10 12:25:51,692    DEBUG Thread-6 (0098) root - Downloading https://download.ftrack.com/ftrack-connect/integrations/ftrack-connect-pipeline-qt-1.2.0.zip to C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-qt-1.2.0.zip
+2023-03-10 12:25:52,272    DEBUG Thread-6 (0131) root - Installing C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-qt-1.2.0.zip to C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-qt-1.2.0
+2023-03-10 12:25:52,457    DEBUG Thread-6 (0098) root - Downloading https://download.ftrack.com/ftrack-connect/integrations/ftrack-connect-pipeline-maya-1.1.0.zip to C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-maya-1.1.0.zip
+2023-03-10 12:25:52,626    DEBUG Thread-6 (0131) root - Installing C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-maya-1.1.0.zip to C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-maya-1.1.0
+2023-03-10 12:25:52,695    DEBUG Thread-6 (0098) root - Downloading https://download.ftrack.com/ftrack-connect/integrations/ftrack-connect-pipeline-nuke-1.1.0.zip to C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-nuke-1.1.0.zip
+2023-03-10 12:25:52,842    DEBUG Thread-6 (0131) root - Installing C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-nuke-1.1.0.zip to C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-nuke-1.1.0
+2023-03-10 12:25:52,911    DEBUG Thread-6 (0098) root - Downloading https://download.ftrack.com/ftrack-connect/integrations/ftrack-connect-pipeline-houdini-1.0.0.zip to C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-houdini-1.0.0.zip
+2023-03-10 12:25:53,043    DEBUG Thread-6 (0131) root - Installing C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-houdini-1.0.0.zip to C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-houdini-1.0.0
+2023-03-10 12:25:53,112    DEBUG Thread-6 (0098) root - Downloading https://download.ftrack.com/ftrack-connect/integrations/ftrack-connect-rv-5.0.zip to C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-rv-5.0.zip
+2023-03-10 12:25:53,228    DEBUG Thread-6 (0131) root - Installing C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-rv-5.0.zip to C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-rv-5.0
+2023-03-10 12:25:53,228    DEBUG Thread-6 (0098) root - Downloading https://download.ftrack.com/ftrack-connect/integrations/ftrack-connect-cinema-4d-0.2.1.zip to C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-cinema-4d-0.2.1.zip
+2023-03-10 12:25:54,314    DEBUG Thread-6 (0131) root - Installing C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-cinema-4d-0.2.1.zip to C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-cinema-4d-0.2.1
+2023-03-10 12:25:54,847    DEBUG Thread-6 (0098) root - Downloading https://download.ftrack.com/ftrack-connect/integrations/ftrack-connect-nuke-studio-2.5.1.zip to C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-nuke-studio-2.5.1.zip
+2023-03-10 12:25:55,727    DEBUG Thread-6 (0131) root - Installing C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-nuke-studio-2.5.1.zip to C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-nuke-studio-2.5.1
+2023-03-10 12:25:56,405    DEBUG Thread-6 (0098) root - Downloading https://download.ftrack.com/ftrack-connect/integrations/ftrack-connect-action-launcher-widget-0.1.1.zip to C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-action-launcher-widget-0.1.1.zip
+2023-03-10 12:25:56,515    DEBUG Thread-6 (0131) root - Installing C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-action-launcher-widget-0.1.1.zip to C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-action-launcher-widget-0.1.1
+2023-03-10 12:25:56,536    DEBUG Thread-6 (0098) root - Downloading https://download.ftrack.com/ftrack-connect/integrations/ftrack-connect-publisher-widget-0.1.1.zip to C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-publisher-widget-0.1.1.zip
+2023-03-10 12:25:56,653    DEBUG Thread-6 (0131) root - Installing C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-publisher-widget-0.1.1.zip to C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-publisher-widget-0.1.1
+2023-03-10 12:26:04,623     INFO MainThread (0238) ftrack_connect.ui.application.Application - Connect restarting....
+2023-03-10 12:26:04,623    DEBUG MainThread (0089) ftrack_connect.singleton - Attempting to remove lockfile.
+2023-03-10 12:26:04,623    DEBUG MainThread (0103) ftrack_connect.singleton - Singleton C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock removed.
+2023-03-10 12:26:04,623    DEBUG MainThread (0259) ftrack_connect.ui.application.Application - Connect restarting with :: path: C:/Program Files (x86)/ftrack Connect/ftrack_connect.exe argv: []
+2023-03-10 12:26:04,623    DEBUG MainThread (0266) ftrack_connect.ui.application.Application - Connect restarted with status True
+2023-03-10 12:26:05,199     INFO MainThread (0108) root - Saving log file to: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\log\ftrack_connect.log
+2023-03-10 12:26:05,199    DEBUG MainThread (0059) ftrack_connect.singleton - SingleInstance lockfile: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock
+2023-03-10 12:26:05,215    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins' for plugin hooks.
+2023-03-10 12:26:05,215    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found ['C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-application-launcher-1.0.8\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-action-launcher-widget-0.1.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-cinema-4d-0.2.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-nuke-studio-2.5.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-definition-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-houdini-1.0.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-maya-1.1.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-nuke-1.1.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-qt-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-plugin-manager-0.1.5\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-publisher-widget-0.1.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-rv-5.0\\hook'] plugin hooks in 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins'.
+2023-03-10 12:26:05,215    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-03-10 12:26:05,215    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-03-10 12:26:05,215    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-03-10 12:26:05,215    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-03-10 12:26:05,215    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-03-10 12:26:05,215    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-03-10 12:26:05,215     INFO MainThread (0751) ftrack_connect.ui.application.Application - Connect plugin hooks directories: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-application-launcher-1.0.8\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-action-launcher-widget-0.1.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-cinema-4d-0.2.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-nuke-studio-2.5.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-definition-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-houdini-1.0.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-maya-1.1.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-nuke-1.1.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-qt-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-plugin-manager-0.1.5\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-publisher-widget-0.1.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-rv-5.0\hook, C:\Program Files (x86)\ftrack Connect\resource\hook
+2023-03-10 12:26:05,246    DEBUG MainThread (0387) ftrack_connect.ui.application.Application - Setting theme light
+2023-03-10 12:26:05,415    DEBUG MainThread (0029) ftrack_connect.ui.config - Reading config from C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\config.json
+2023-03-10 12:26:05,933    DEBUG MainThread (0029) ftrack_connect.ui.config - Reading config from C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\config.json
+2023-03-10 12:26:06,622     INFO MainThread (0111) root - Saving log file to: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\log\ftrack_application_launcher.log
+2023-03-10 12:26:06,622    DEBUG MainThread (0036) root - Application launcher 1.0.8 using config path: ['C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-application-launcher-1.0.8\\config'] 
+2023-03-10 12:26:06,638    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-3dsmax
+2023-03-10 12:26:06,638    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,638    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,638    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:3ds Max|id:ftrack-connect-launch-3dsmax|variant:None> with priority 9223372036854775807
+2023-03-10 12:26:06,638    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-adobe-pipeline-premiere
+2023-03-10 12:26:06,638    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,638    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Adobe Premiere|id:ftrack-connect-launch-adobe-pipeline-premiere|variant:None> with priority 100
+2023-03-10 12:26:06,638    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-cinema-4d
+2023-03-10 12:26:06,638    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,638    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Cinema 4D|id:ftrack-connect-launch-cinema-4d|variant:None> with priority 9223372036854775807
+2023-03-10 12:26:06,638    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-cinesync-play
+2023-03-10 12:26:06,638    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,638    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:cineSync Play|id:ftrack-connect-launch-cinesync-play|variant:None> with priority 9223372036854775807
+2023-03-10 12:26:06,638    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-hiero
+2023-03-10 12:26:06,638    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,638    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,638    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Hiero|id:ftrack-connect-launch-hiero|variant:None> with priority 9223372036854775807
+2023-03-10 12:26:06,638    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-houdini
+2023-03-10 12:26:06,638    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,638    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,638    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,638    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,638    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,638    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,638    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,638    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,653    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Houdini|id:ftrack-connect-launch-houdini|variant:None> with priority 100
+2023-03-10 12:26:06,653    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-maya
+2023-03-10 12:26:06,653    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,653    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,653    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Maya|id:ftrack-connect-launch-maya|variant:None> with priority 100
+2023-03-10 12:26:06,653    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke
+2023-03-10 12:26:06,653    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,653    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,653    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke|id:ftrack-connect-launch-nuke|variant:None> with priority 9223372036854775807
+2023-03-10 12:26:06,653    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke-studio
+2023-03-10 12:26:06,653    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,653    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke Studio|id:ftrack-connect-launch-nuke-studio|variant:None> with priority 9223372036854775807
+2023-03-10 12:26:06,653    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nukex
+2023-03-10 12:26:06,653    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,653    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:NukeX|id:ftrack-connect-launch-nukex|variant:None> with priority 9223372036854775807
+2023-03-10 12:26:06,653    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke-x
+2023-03-10 12:26:06,653    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,653    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke_X|id:ftrack-connect-launch-nuke-x|variant:None> with priority 9223372036854775807
+2023-03-10 12:26:06,653    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unity
+2023-03-10 12:26:06,653    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,653    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unity|id:ftrack-connect-launch-unity|variant:None> with priority 100
+2023-03-10 12:26:06,653    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unreal-engine
+2023-03-10 12:26:06,653    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,653    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,653    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unreal Engine|id:ftrack-connect-launch-unreal-engine|variant:None> with priority 100
+2023-03-10 12:26:06,653    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unreal
+2023-03-10 12:26:06,653    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,653    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unreal Engine|id:ftrack-connect-launch-unreal|variant:None> with priority 100
+2023-03-10 12:26:06,707    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,707    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,707    DEBUG MainThread (0307) ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+2023-03-10 12:26:06,707    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 12:26:06,707    DEBUG MainThread (0192) ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+2023-03-10 12:26:06,838     INFO MainThread (0048) ftrack.connect.publish.make-web-playable - Subscribing to event topic: 'ftrack.connect.publish.make-web-playable'
+2023-03-10 12:26:06,838    DEBUG MainThread (0070) ftrack.connect.publish.make-web-playable - Plugin registered
+2023-03-10 12:26:06,838     INFO MainThread (0071) ftrack_connect.publish-components - Subscribing to event topic: 'ftrack.connect.publish-components'
+2023-03-10 12:26:06,838    DEBUG MainThread (0093) ftrack_connect.publish-components - Plugin registered
+2023-03-10 12:26:06,838     INFO MainThread (0133) ftrack_connect.resolver.register - Subscribing to topic ftrack.location.request-resolve
+2023-03-10 12:26:06,892     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded False
+2023-03-10 12:26:07,532     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-03-10 12:26:07,880     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-03-10 12:26:13,558     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-03-10 17:14:55,526     INFO MainThread (0108) root - Saving log file to: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\log\ftrack_connect.log
+2023-03-10 17:14:55,526    DEBUG MainThread (0059) ftrack_connect.singleton - SingleInstance lockfile: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock
+2023-03-10 17:14:55,536    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins' for plugin hooks.
+2023-03-10 17:14:55,538    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found ['C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-application-launcher-1.0.8\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-action-launcher-widget-0.1.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-cinema-4d-0.2.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-nuke-studio-2.5.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-definition-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-houdini-1.0.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-maya-1.1.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-nuke-1.1.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-qt-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-plugin-manager-0.1.5\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-publisher-widget-0.1.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-rv-5.0\\hook'] plugin hooks in 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins'.
+2023-03-10 17:14:55,539    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-03-10 17:14:55,539    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-03-10 17:14:55,539     INFO MainThread (0751) ftrack_connect.ui.application.Application - Connect plugin hooks directories: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-application-launcher-1.0.8\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-action-launcher-widget-0.1.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-cinema-4d-0.2.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-nuke-studio-2.5.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-definition-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-houdini-1.0.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-maya-1.1.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-nuke-1.1.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-qt-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-plugin-manager-0.1.5\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-publisher-widget-0.1.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-rv-5.0\hook, C:\Program Files (x86)\ftrack Connect\resource\hook
+2023-03-10 17:14:55,571    DEBUG MainThread (0387) ftrack_connect.ui.application.Application - Setting theme light
+2023-03-10 17:14:56,032    DEBUG MainThread (0029) ftrack_connect.ui.config - Reading config from C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\config.json
+2023-03-10 17:15:17,135    ERROR MainThread (0589) ftrack_connect.ui.application.Application - Error reaching server url.
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\urllib3\connection.py", line 175, in _new_conn
+  File "C:\Python\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+  File "C:\Python\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+TimeoutError: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\urllib3\connectionpool.py", line 710, in urlopen
+  File "C:\Python\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+  File "C:\Python\lib\site-packages\urllib3\connection.py", line 239, in request
+  File "C:\Python\lib\http\client.py", line 1277, in request
+  File "C:\Python\lib\http\client.py", line 1323, in _send_request
+  File "C:\Python\lib\http\client.py", line 1272, in endheaders
+  File "C:\Python\lib\http\client.py", line 1032, in _send_output
+  File "C:\Python\lib\http\client.py", line 972, in send
+  File "C:\Python\lib\site-packages\urllib3\connection.py", line 205, in connect
+  File "C:\Python\lib\site-packages\urllib3\connection.py", line 187, in _new_conn
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000002BE18950A48>: Failed to establish a new connection: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\requests\adapters.py", line 449, in send
+  File "C:\Python\lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+  File "C:\Python\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='ftrack.postmodern.digital', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002BE18950A48>: Failed to establish a new connection: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\ftrack_connect-2.0.1-py3.7.egg\ftrack_connect\ui\application.py", line 586, in loginWithCredentials
+  File "C:\Python\lib\site-packages\requests\api.py", line 76, in get
+  File "C:\Python\lib\site-packages\requests\api.py", line 61, in request
+  File "C:\Python\lib\site-packages\requests\sessions.py", line 542, in request
+  File "C:\Python\lib\site-packages\requests\sessions.py", line 655, in send
+  File "C:\Python\lib\site-packages\requests\adapters.py", line 516, in send
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='ftrack.postmodern.digital', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002BE18950A48>: Failed to establish a new connection: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера'))
+2023-03-10 17:15:17,138     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded False
+2023-03-10 17:15:31,235     INFO MainThread (0108) root - Saving log file to: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\log\ftrack_connect.log
+2023-03-10 17:15:31,235    DEBUG MainThread (0059) ftrack_connect.singleton - SingleInstance lockfile: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock
+2023-03-10 17:15:31,236    ERROR MainThread (0073) ftrack_connect.singleton - Another instance is already running, quitting.
+2023-03-10 17:15:31,236    ERROR MainThread (0109) ftrack_connect - Lockfile found: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock
+Is Connect already running?
+Close Connect, remove lockfile or pass --allow-multiple and retry.
+2023-03-10 17:15:50,013     INFO MainThread (0108) root - Saving log file to: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\log\ftrack_connect.log
+2023-03-10 17:15:50,013    DEBUG MainThread (0059) ftrack_connect.singleton - SingleInstance lockfile: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock
+2023-03-10 17:15:50,014    ERROR MainThread (0073) ftrack_connect.singleton - Another instance is already running, quitting.
+2023-03-10 17:15:50,014    ERROR MainThread (0109) ftrack_connect - Lockfile found: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock
+Is Connect already running?
+Close Connect, remove lockfile or pass --allow-multiple and retry.
+2023-03-10 17:16:08,009     INFO MainThread (0108) root - Saving log file to: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\log\ftrack_connect.log
+2023-03-10 17:16:08,009    DEBUG MainThread (0059) ftrack_connect.singleton - SingleInstance lockfile: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock
+2023-03-10 17:16:08,010    ERROR MainThread (0073) ftrack_connect.singleton - Another instance is already running, quitting.
+2023-03-10 17:16:08,010    ERROR MainThread (0109) ftrack_connect - Lockfile found: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock
+Is Connect already running?
+Close Connect, remove lockfile or pass --allow-multiple and retry.
+2023-03-10 17:17:42,309     INFO MainThread (0108) root - Saving log file to: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\log\ftrack_connect.log
+2023-03-10 17:17:42,310    DEBUG MainThread (0059) ftrack_connect.singleton - SingleInstance lockfile: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock
+2023-03-10 17:17:42,320    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins' for plugin hooks.
+2023-03-10 17:17:42,321    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found ['C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-application-launcher-1.0.8\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-action-launcher-widget-0.1.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-cinema-4d-0.2.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-nuke-studio-2.5.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-definition-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-houdini-1.0.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-maya-1.1.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-nuke-1.1.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-qt-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-plugin-manager-0.1.5\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-publisher-widget-0.1.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-rv-5.0\\hook'] plugin hooks in 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins'.
+2023-03-10 17:17:42,321    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-03-10 17:17:42,321    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-03-10 17:17:42,321     INFO MainThread (0751) ftrack_connect.ui.application.Application - Connect plugin hooks directories: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-application-launcher-1.0.8\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-action-launcher-widget-0.1.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-cinema-4d-0.2.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-nuke-studio-2.5.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-definition-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-houdini-1.0.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-maya-1.1.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-nuke-1.1.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-qt-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-plugin-manager-0.1.5\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-publisher-widget-0.1.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-rv-5.0\hook, C:\Program Files (x86)\ftrack Connect\resource\hook
+2023-03-10 17:17:42,347    DEBUG MainThread (0387) ftrack_connect.ui.application.Application - Setting theme light
+2023-03-10 17:17:42,542    DEBUG MainThread (0029) ftrack_connect.ui.config - Reading config from C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\config.json
+2023-03-10 17:17:43,081    DEBUG MainThread (0029) ftrack_connect.ui.config - Reading config from C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\config.json
+2023-03-10 17:17:43,573     INFO MainThread (0111) root - Saving log file to: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\log\ftrack_application_launcher.log
+2023-03-10 17:17:43,575    DEBUG MainThread (0036) root - Application launcher 1.0.8 using config path: ['C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-application-launcher-1.0.8\\config'] 
+2023-03-10 17:17:43,597    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-3dsmax
+2023-03-10 17:17:43,599    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,600    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,600    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:3ds Max|id:ftrack-connect-launch-3dsmax|variant:None> with priority 9223372036854775807
+2023-03-10 17:17:43,600    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-adobe-pipeline-premiere
+2023-03-10 17:17:43,600    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,601    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Adobe Premiere|id:ftrack-connect-launch-adobe-pipeline-premiere|variant:None> with priority 100
+2023-03-10 17:17:43,601    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-cinema-4d
+2023-03-10 17:17:43,602    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,602    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Cinema 4D|id:ftrack-connect-launch-cinema-4d|variant:None> with priority 9223372036854775807
+2023-03-10 17:17:43,602    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-cinesync-play
+2023-03-10 17:17:43,603    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,603    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:cineSync Play|id:ftrack-connect-launch-cinesync-play|variant:None> with priority 9223372036854775807
+2023-03-10 17:17:43,603    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-hiero
+2023-03-10 17:17:43,604    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,605    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,606    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Hiero|id:ftrack-connect-launch-hiero|variant:None> with priority 9223372036854775807
+2023-03-10 17:17:43,606    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-houdini
+2023-03-10 17:17:43,606    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,607    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,607    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,608    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,609    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,609    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,610    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,610    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,610    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Houdini|id:ftrack-connect-launch-houdini|variant:None> with priority 100
+2023-03-10 17:17:43,611    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-maya
+2023-03-10 17:17:43,611    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,612    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,612    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Maya|id:ftrack-connect-launch-maya|variant:None> with priority 100
+2023-03-10 17:17:43,612    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke
+2023-03-10 17:17:43,612    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,613    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,613    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke|id:ftrack-connect-launch-nuke|variant:None> with priority 9223372036854775807
+2023-03-10 17:17:43,613    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke-studio
+2023-03-10 17:17:43,614    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,614    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke Studio|id:ftrack-connect-launch-nuke-studio|variant:None> with priority 9223372036854775807
+2023-03-10 17:17:43,614    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nukex
+2023-03-10 17:17:43,614    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,615    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:NukeX|id:ftrack-connect-launch-nukex|variant:None> with priority 9223372036854775807
+2023-03-10 17:17:43,615    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke-x
+2023-03-10 17:17:43,615    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,615    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke_X|id:ftrack-connect-launch-nuke-x|variant:None> with priority 9223372036854775807
+2023-03-10 17:17:43,616    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unity
+2023-03-10 17:17:43,616    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,617    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unity|id:ftrack-connect-launch-unity|variant:None> with priority 100
+2023-03-10 17:17:43,617    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unreal-engine
+2023-03-10 17:17:43,618    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,618    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,618    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unreal Engine|id:ftrack-connect-launch-unreal-engine|variant:None> with priority 100
+2023-03-10 17:17:43,618    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unreal
+2023-03-10 17:17:43,619    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,619    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unreal Engine|id:ftrack-connect-launch-unreal|variant:None> with priority 100
+2023-03-10 17:17:43,667    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,668    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,668    DEBUG MainThread (0307) ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+2023-03-10 17:17:43,675    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-03-10 17:17:43,675    DEBUG MainThread (0192) ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+2023-03-10 17:17:43,841     INFO MainThread (0048) ftrack.connect.publish.make-web-playable - Subscribing to event topic: 'ftrack.connect.publish.make-web-playable'
+2023-03-10 17:17:43,843    DEBUG MainThread (0070) ftrack.connect.publish.make-web-playable - Plugin registered
+2023-03-10 17:17:43,847     INFO MainThread (0071) ftrack_connect.publish-components - Subscribing to event topic: 'ftrack.connect.publish-components'
+2023-03-10 17:17:43,849    DEBUG MainThread (0093) ftrack_connect.publish-components - Plugin registered
+2023-03-10 17:17:43,850     INFO MainThread (0133) ftrack_connect.resolver.register - Subscribing to topic ftrack.location.request-resolve
+2023-03-10 17:17:43,913     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded False
+2023-03-10 17:17:44,820     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-03-10 17:17:45,204     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-03-10 17:17:48,954     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-04-14 15:40:46,236     INFO MainThread (0108) root - Saving log file to: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\log\ftrack_connect.log
+2023-04-14 15:40:46,238    DEBUG MainThread (0059) ftrack_connect.singleton - SingleInstance lockfile: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock
+2023-04-14 15:40:46,253    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins' for plugin hooks.
+2023-04-14 15:40:46,258    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found ['C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-application-launcher-1.0.8\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-action-launcher-widget-0.1.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-cinema-4d-0.2.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-nuke-studio-2.5.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-definition-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-houdini-1.0.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-maya-1.1.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-nuke-1.1.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-qt-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-plugin-manager-0.1.5\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-publisher-widget-0.1.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-rv-5.0\\hook'] plugin hooks in 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins'.
+2023-04-14 15:40:46,258    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-04-14 15:40:46,258    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-04-14 15:40:46,259     INFO MainThread (0751) ftrack_connect.ui.application.Application - Connect plugin hooks directories: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-application-launcher-1.0.8\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-action-launcher-widget-0.1.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-cinema-4d-0.2.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-nuke-studio-2.5.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-definition-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-houdini-1.0.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-maya-1.1.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-nuke-1.1.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-qt-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-plugin-manager-0.1.5\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-publisher-widget-0.1.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-rv-5.0\hook, C:\Program Files (x86)\ftrack Connect\resource\hook
+2023-04-14 15:40:46,310    DEBUG MainThread (0387) ftrack_connect.ui.application.Application - Setting theme light
+2023-04-14 15:40:47,269    DEBUG MainThread (0029) ftrack_connect.ui.config - Reading config from C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\config.json
+2023-04-14 15:41:08,725    ERROR MainThread (0589) ftrack_connect.ui.application.Application - Error reaching server url.
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\urllib3\connection.py", line 175, in _new_conn
+  File "C:\Python\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+  File "C:\Python\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+TimeoutError: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\urllib3\connectionpool.py", line 710, in urlopen
+  File "C:\Python\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+  File "C:\Python\lib\site-packages\urllib3\connection.py", line 239, in request
+  File "C:\Python\lib\http\client.py", line 1277, in request
+  File "C:\Python\lib\http\client.py", line 1323, in _send_request
+  File "C:\Python\lib\http\client.py", line 1272, in endheaders
+  File "C:\Python\lib\http\client.py", line 1032, in _send_output
+  File "C:\Python\lib\http\client.py", line 972, in send
+  File "C:\Python\lib\site-packages\urllib3\connection.py", line 205, in connect
+  File "C:\Python\lib\site-packages\urllib3\connection.py", line 187, in _new_conn
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x00000236055908C8>: Failed to establish a new connection: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\requests\adapters.py", line 449, in send
+  File "C:\Python\lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+  File "C:\Python\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='ftrack.postmodern.digital', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000236055908C8>: Failed to establish a new connection: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\ftrack_connect-2.0.1-py3.7.egg\ftrack_connect\ui\application.py", line 586, in loginWithCredentials
+  File "C:\Python\lib\site-packages\requests\api.py", line 76, in get
+  File "C:\Python\lib\site-packages\requests\api.py", line 61, in request
+  File "C:\Python\lib\site-packages\requests\sessions.py", line 542, in request
+  File "C:\Python\lib\site-packages\requests\sessions.py", line 655, in send
+  File "C:\Python\lib\site-packages\requests\adapters.py", line 516, in send
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='ftrack.postmodern.digital', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000236055908C8>: Failed to establish a new connection: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера'))
+2023-04-14 15:41:08,733     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded False
+2023-04-14 15:41:56,374    DEBUG MainThread (0029) ftrack_connect.ui.config - Reading config from C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\config.json
+2023-04-14 15:41:57,067     INFO MainThread (0111) root - Saving log file to: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\log\ftrack_application_launcher.log
+2023-04-14 15:41:57,076    DEBUG MainThread (0036) root - Application launcher 1.0.8 using config path: ['C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-application-launcher-1.0.8\\config'] 
+2023-04-14 15:41:57,135    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-3dsmax
+2023-04-14 15:41:57,144    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,146    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,146    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:3ds Max|id:ftrack-connect-launch-3dsmax|variant:None> with priority 9223372036854775807
+2023-04-14 15:41:57,147    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-adobe-pipeline-premiere
+2023-04-14 15:41:57,149    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,149    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Adobe Premiere|id:ftrack-connect-launch-adobe-pipeline-premiere|variant:None> with priority 100
+2023-04-14 15:41:57,150    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-cinema-4d
+2023-04-14 15:41:57,153    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,154    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Cinema 4D|id:ftrack-connect-launch-cinema-4d|variant:None> with priority 9223372036854775807
+2023-04-14 15:41:57,155    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-cinesync-play
+2023-04-14 15:41:57,158    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,159    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:cineSync Play|id:ftrack-connect-launch-cinesync-play|variant:None> with priority 9223372036854775807
+2023-04-14 15:41:57,159    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-hiero
+2023-04-14 15:41:57,161    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,164    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,164    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Hiero|id:ftrack-connect-launch-hiero|variant:None> with priority 9223372036854775807
+2023-04-14 15:41:57,165    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-houdini
+2023-04-14 15:41:57,167    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,170    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,172    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,174    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,176    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,178    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,180    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,182    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,182    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Houdini|id:ftrack-connect-launch-houdini|variant:None> with priority 100
+2023-04-14 15:41:57,183    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-maya
+2023-04-14 15:41:57,184    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,186    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,187    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Maya|id:ftrack-connect-launch-maya|variant:None> with priority 100
+2023-04-14 15:41:57,188    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke
+2023-04-14 15:41:57,190    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,191    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,192    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke|id:ftrack-connect-launch-nuke|variant:None> with priority 9223372036854775807
+2023-04-14 15:41:57,193    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke-studio
+2023-04-14 15:41:57,194    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,195    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke Studio|id:ftrack-connect-launch-nuke-studio|variant:None> with priority 9223372036854775807
+2023-04-14 15:41:57,196    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nukex
+2023-04-14 15:41:57,198    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,198    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:NukeX|id:ftrack-connect-launch-nukex|variant:None> with priority 9223372036854775807
+2023-04-14 15:41:57,199    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke-x
+2023-04-14 15:41:57,201    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,201    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke_X|id:ftrack-connect-launch-nuke-x|variant:None> with priority 9223372036854775807
+2023-04-14 15:41:57,202    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unity
+2023-04-14 15:41:57,206    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,206    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unity|id:ftrack-connect-launch-unity|variant:None> with priority 100
+2023-04-14 15:41:57,208    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unreal-engine
+2023-04-14 15:41:57,212    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,214    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,215    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unreal Engine|id:ftrack-connect-launch-unreal-engine|variant:None> with priority 100
+2023-04-14 15:41:57,215    DEBUG MainThread (0084) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unreal
+2023-04-14 15:41:57,217    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,217    DEBUG MainThread (0134) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unreal Engine|id:ftrack-connect-launch-unreal|variant:None> with priority 100
+2023-04-14 15:41:57,409    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,411    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,412    DEBUG MainThread (0307) ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+2023-04-14 15:41:57,442    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:41:57,443    DEBUG MainThread (0192) ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+2023-04-14 15:41:57,745     INFO MainThread (0048) ftrack.connect.publish.make-web-playable - Subscribing to event topic: 'ftrack.connect.publish.make-web-playable'
+2023-04-14 15:41:57,750    DEBUG MainThread (0070) ftrack.connect.publish.make-web-playable - Plugin registered
+2023-04-14 15:41:57,770     INFO MainThread (0071) ftrack_connect.publish-components - Subscribing to event topic: 'ftrack.connect.publish-components'
+2023-04-14 15:41:57,774    DEBUG MainThread (0093) ftrack_connect.publish-components - Plugin registered
+2023-04-14 15:41:57,777     INFO MainThread (0133) ftrack_connect.resolver.register - Subscribing to topic ftrack.location.request-resolve
+2023-04-14 15:41:58,046     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-04-14 15:41:59,246     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-04-14 15:41:59,950     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-04-14 15:55:46,038    DEBUG Thread-18 (0139) root - Removing C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-application-launcher-1.0.8
+2023-04-14 15:55:46,697    DEBUG Thread-18 (0098) root - Downloading https://download.ftrack.com/ftrack-connect/integrations/ftrack-application-launcher-1.0.9.zip to C:\Users\Oksana\AppData\Local\Temp\ftrack-application-launcher-1.0.9.zip
+2023-04-14 15:55:47,926    DEBUG Thread-18 (0131) root - Installing C:\Users\Oksana\AppData\Local\Temp\ftrack-application-launcher-1.0.9.zip to C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-application-launcher-1.0.9
+2023-04-14 15:55:49,520    DEBUG Thread-18 (0139) root - Removing C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-1.2.0
+2023-04-14 15:55:50,432    DEBUG Thread-18 (0098) root - Downloading https://download.ftrack.com/ftrack-connect/integrations/ftrack-connect-pipeline-1.3.0.zip to C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-1.3.0.zip
+2023-04-14 15:55:51,644    DEBUG Thread-18 (0131) root - Installing C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-1.3.0.zip to C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-1.3.0
+2023-04-14 15:55:55,391    DEBUG Thread-18 (0139) root - Removing C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-houdini-1.0.0
+2023-04-14 15:55:55,484    DEBUG Thread-18 (0098) root - Downloading https://download.ftrack.com/ftrack-connect/integrations/ftrack-connect-pipeline-houdini-1.1.0.zip to C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-houdini-1.1.0.zip
+2023-04-14 15:55:55,938    DEBUG Thread-18 (0131) root - Installing C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-houdini-1.1.0.zip to C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-houdini-1.1.0
+2023-04-14 15:55:56,215    DEBUG Thread-18 (0139) root - Removing C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-maya-1.1.0
+2023-04-14 15:55:56,329    DEBUG Thread-18 (0098) root - Downloading https://download.ftrack.com/ftrack-connect/integrations/ftrack-connect-pipeline-maya-1.2.0.zip to C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-maya-1.2.0.zip
+2023-04-14 15:55:56,762    DEBUG Thread-18 (0131) root - Installing C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-maya-1.2.0.zip to C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-maya-1.2.0
+2023-04-14 15:55:57,031    DEBUG Thread-18 (0139) root - Removing C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-nuke-1.1.0
+2023-04-14 15:55:57,134    DEBUG Thread-18 (0098) root - Downloading https://download.ftrack.com/ftrack-connect/integrations/ftrack-connect-pipeline-nuke-1.2.0.zip to C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-nuke-1.2.0.zip
+2023-04-14 15:55:57,643    DEBUG Thread-18 (0131) root - Installing C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-nuke-1.2.0.zip to C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-nuke-1.2.0
+2023-04-14 15:55:57,924    DEBUG Thread-18 (0139) root - Removing C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-qt-1.2.0
+2023-04-14 15:55:58,119    DEBUG Thread-18 (0098) root - Downloading https://download.ftrack.com/ftrack-connect/integrations/ftrack-connect-pipeline-qt-1.3.0.zip to C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-qt-1.3.0.zip
+2023-04-14 15:55:59,028    DEBUG Thread-18 (0131) root - Installing C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-qt-1.3.0.zip to C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-qt-1.3.0
+2023-04-14 15:56:40,750     INFO MainThread (0238) ftrack_connect.ui.application.Application - Connect restarting....
+2023-04-14 15:56:40,752    DEBUG MainThread (0089) ftrack_connect.singleton - Attempting to remove lockfile.
+2023-04-14 15:56:40,755    DEBUG MainThread (0103) ftrack_connect.singleton - Singleton C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock removed.
+2023-04-14 15:56:40,763    DEBUG MainThread (0259) ftrack_connect.ui.application.Application - Connect restarting with :: path: C:/Program Files (x86)/ftrack Connect/ftrack_connect.exe argv: []
+2023-04-14 15:56:40,777    DEBUG MainThread (0266) ftrack_connect.ui.application.Application - Connect restarted with status True
+2023-04-14 15:56:43,905     INFO MainThread (0108) root - Saving log file to: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\log\ftrack_connect.log
+2023-04-14 15:56:43,906    DEBUG MainThread (0059) ftrack_connect.singleton - SingleInstance lockfile: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock
+2023-04-14 15:56:43,940    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins' for plugin hooks.
+2023-04-14 15:56:43,942    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found ['C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-application-launcher-1.0.9\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-action-launcher-widget-0.1.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-cinema-4d-0.2.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-nuke-studio-2.5.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-1.3.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-definition-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-houdini-1.1.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-maya-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-nuke-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-qt-1.3.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-plugin-manager-0.1.5\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-publisher-widget-0.1.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-rv-5.0\\hook'] plugin hooks in 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins'.
+2023-04-14 15:56:43,942    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-04-14 15:56:43,943    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-04-14 15:56:43,943    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-04-14 15:56:43,943    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-04-14 15:56:43,944     INFO MainThread (0751) ftrack_connect.ui.application.Application - Connect plugin hooks directories: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-application-launcher-1.0.9\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-action-launcher-widget-0.1.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-cinema-4d-0.2.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-nuke-studio-2.5.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-1.3.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-definition-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-houdini-1.1.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-maya-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-nuke-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-qt-1.3.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-plugin-manager-0.1.5\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-publisher-widget-0.1.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-rv-5.0\hook, C:\Program Files (x86)\ftrack Connect\resource\hook
+2023-04-14 15:56:44,056    DEBUG MainThread (0387) ftrack_connect.ui.application.Application - Setting theme light
+2023-04-14 15:56:45,316    DEBUG MainThread (0029) ftrack_connect.ui.config - Reading config from C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\config.json
+2023-04-14 15:56:46,019    DEBUG MainThread (0029) ftrack_connect.ui.config - Reading config from C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\config.json
+2023-04-14 15:56:46,575     INFO MainThread (0111) root - Saving log file to: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\log\ftrack_application_launcher.log
+2023-04-14 15:56:46,593    DEBUG MainThread (0036) root - Application launcher 1.0.9 using config path: ['C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-application-launcher-1.0.8\\config'] 
+2023-04-14 15:56:46,594  WARNING MainThread (0042) ftrack_application_launcher.discover_applications.DiscoverApplications - C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-application-launcher-1.0.8\config directory cannot be found.
+2023-04-14 15:56:46,605    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:56:46,607    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:56:46,611    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:56:46,614    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:56:46,615    DEBUG MainThread (0319) ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+2023-04-14 15:56:46,640    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-04-14 15:56:46,641    DEBUG MainThread (0191) ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+2023-04-14 15:56:47,140     INFO MainThread (0048) ftrack.connect.publish.make-web-playable - Subscribing to event topic: 'ftrack.connect.publish.make-web-playable'
+2023-04-14 15:56:47,147    DEBUG MainThread (0070) ftrack.connect.publish.make-web-playable - Plugin registered
+2023-04-14 15:56:47,160     INFO MainThread (0071) ftrack_connect.publish-components - Subscribing to event topic: 'ftrack.connect.publish-components'
+2023-04-14 15:56:47,168    DEBUG MainThread (0093) ftrack_connect.publish-components - Plugin registered
+2023-04-14 15:56:47,172     INFO MainThread (0133) ftrack_connect.resolver.register - Subscribing to topic ftrack.location.request-resolve
+2023-04-14 15:56:47,277     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded False
+2023-04-14 15:56:48,147     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-04-14 15:56:48,823     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-04-14 15:56:57,423     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-05-03 14:35:42,561     INFO MainThread (0238) ftrack_connect.ui.application.Application - Connect restarting....
+2023-05-03 14:35:42,636    DEBUG MainThread (0089) ftrack_connect.singleton - Attempting to remove lockfile.
+2023-05-03 14:35:42,643    DEBUG MainThread (0103) ftrack_connect.singleton - Singleton C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock removed.
+2023-05-03 14:35:42,657    DEBUG MainThread (0259) ftrack_connect.ui.application.Application - Connect restarting with :: path: C:/Program Files (x86)/ftrack Connect/ftrack_connect.exe argv: []
+2023-05-03 14:35:42,665    DEBUG MainThread (0266) ftrack_connect.ui.application.Application - Connect restarted with status True
+2023-05-03 14:35:43,627     INFO MainThread (0108) root - Saving log file to: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\log\ftrack_connect.log
+2023-05-03 14:35:43,628    DEBUG MainThread (0059) ftrack_connect.singleton - SingleInstance lockfile: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock
+2023-05-03 14:35:43,646    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins' for plugin hooks.
+2023-05-03 14:35:43,647    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found ['C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-application-launcher-1.0.9\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-action-launcher-widget-0.1.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-cinema-4d-0.2.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-nuke-studio-2.5.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-1.3.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-definition-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-houdini-1.1.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-maya-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-nuke-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-plugin-manager-0.1.5\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-publisher-widget-0.1.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-rv-5.0\\hook'] plugin hooks in 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins'.
+2023-05-03 14:35:43,647    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-05-03 14:35:43,647    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-05-03 14:35:43,648    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-05-03 14:35:43,648    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-05-03 14:35:43,648    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-05-03 14:35:43,648    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-05-03 14:35:43,648     INFO MainThread (0751) ftrack_connect.ui.application.Application - Connect plugin hooks directories: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-application-launcher-1.0.9\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-action-launcher-widget-0.1.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-cinema-4d-0.2.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-nuke-studio-2.5.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-1.3.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-definition-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-houdini-1.1.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-maya-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-nuke-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-plugin-manager-0.1.5\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-publisher-widget-0.1.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-rv-5.0\hook, C:\Program Files (x86)\ftrack Connect\resource\hook
+2023-05-03 14:35:43,711    DEBUG MainThread (0387) ftrack_connect.ui.application.Application - Setting theme light
+2023-05-03 14:35:44,671    DEBUG MainThread (0029) ftrack_connect.ui.config - Reading config from C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\config.json
+2023-05-03 14:35:45,221    DEBUG MainThread (0029) ftrack_connect.ui.config - Reading config from C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\config.json
+2023-05-03 14:35:45,879     INFO MainThread (0111) root - Saving log file to: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\log\ftrack_application_launcher.log
+2023-05-03 14:35:45,882    DEBUG MainThread (0036) root - Application launcher 1.0.9 using config path: ['C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-application-launcher-1.0.8\\config'] 
+2023-05-03 14:35:45,883  WARNING MainThread (0042) ftrack_application_launcher.discover_applications.DiscoverApplications - C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-application-launcher-1.0.8\config directory cannot be found.
+2023-05-03 14:35:45,890    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-05-03 14:35:45,891    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-05-03 14:35:45,892    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-05-03 14:35:45,894    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-05-03 14:35:45,894    DEBUG MainThread (0319) ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+2023-05-03 14:35:45,910    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-05-03 14:35:45,911    DEBUG MainThread (0191) ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+2023-05-03 14:35:46,137     INFO MainThread (0048) ftrack.connect.publish.make-web-playable - Subscribing to event topic: 'ftrack.connect.publish.make-web-playable'
+2023-05-03 14:35:46,139    DEBUG MainThread (0070) ftrack.connect.publish.make-web-playable - Plugin registered
+2023-05-03 14:35:46,145     INFO MainThread (0071) ftrack_connect.publish-components - Subscribing to event topic: 'ftrack.connect.publish-components'
+2023-05-03 14:35:46,147    DEBUG MainThread (0093) ftrack_connect.publish-components - Plugin registered
+2023-05-03 14:35:46,150     INFO MainThread (0133) ftrack_connect.resolver.register - Subscribing to topic ftrack.location.request-resolve
+2023-05-03 14:35:46,205     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded False
+2023-05-03 14:35:46,951     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-05-03 14:35:47,431     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-05-03 14:36:05,990     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-05-03 14:36:19,404    DEBUG Thread-17 (0139) root - Removing C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-application-launcher-1.0.9
+2023-05-03 14:36:19,937    DEBUG Thread-17 (0098) root - Downloading https://download.ftrack.com/ftrack-connect/integrations/ftrack-application-launcher-1.0.10.zip to C:\Users\Oksana\AppData\Local\Temp\ftrack-application-launcher-1.0.10.zip
+2023-05-03 14:36:21,132    DEBUG Thread-17 (0131) root - Installing C:\Users\Oksana\AppData\Local\Temp\ftrack-application-launcher-1.0.10.zip to C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-application-launcher-1.0.10
+2023-05-03 14:36:21,881    DEBUG Thread-17 (0139) root - Removing C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-cinema-4d-0.2.1
+2023-05-03 14:36:22,245    DEBUG Thread-17 (0098) root - Downloading https://download.ftrack.com/ftrack-connect/integrations/ftrack-connect-cinema-4d-0.2.2.zip to C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-cinema-4d-0.2.2.zip
+2023-05-03 14:36:24,003    DEBUG Thread-17 (0131) root - Installing C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-cinema-4d-0.2.2.zip to C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-cinema-4d-0.2.2
+2023-05-03 14:42:34,307     INFO MainThread (0238) ftrack_connect.ui.application.Application - Connect restarting....
+2023-05-03 14:42:34,318    DEBUG MainThread (0089) ftrack_connect.singleton - Attempting to remove lockfile.
+2023-05-03 14:42:34,320    DEBUG MainThread (0103) ftrack_connect.singleton - Singleton C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock removed.
+2023-05-03 14:42:34,326    DEBUG MainThread (0259) ftrack_connect.ui.application.Application - Connect restarting with :: path: C:/Program Files (x86)/ftrack Connect/ftrack_connect.exe argv: []
+2023-05-03 14:42:34,338    DEBUG MainThread (0266) ftrack_connect.ui.application.Application - Connect restarted with status True
+2023-05-03 14:42:36,271     INFO MainThread (0108) root - Saving log file to: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\log\ftrack_connect.log
+2023-05-03 14:42:36,272    DEBUG MainThread (0059) ftrack_connect.singleton - SingleInstance lockfile: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock
+2023-05-03 14:42:36,303    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins' for plugin hooks.
+2023-05-03 14:42:36,311    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found ['C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-application-launcher-1.0.10\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-action-launcher-widget-0.1.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-cinema-4d-0.2.2\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-nuke-studio-2.5.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-1.3.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-definition-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-houdini-1.1.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-maya-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-nuke-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-plugin-manager-0.1.5\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-publisher-widget-0.1.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-rv-5.0\\hook'] plugin hooks in 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins'.
+2023-05-03 14:42:36,311    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-05-03 14:42:36,311    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-05-03 14:42:36,311    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-05-03 14:42:36,311    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-05-03 14:42:36,311    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-05-03 14:42:36,312    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-05-03 14:42:36,312    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-05-03 14:42:36,312    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-05-03 14:42:36,312     INFO MainThread (0751) ftrack_connect.ui.application.Application - Connect plugin hooks directories: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-application-launcher-1.0.10\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-action-launcher-widget-0.1.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-cinema-4d-0.2.2\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-nuke-studio-2.5.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-1.3.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-definition-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-houdini-1.1.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-maya-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-nuke-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-plugin-manager-0.1.5\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-publisher-widget-0.1.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-rv-5.0\hook, C:\Program Files (x86)\ftrack Connect\resource\hook
+2023-05-03 14:42:36,353    DEBUG MainThread (0387) ftrack_connect.ui.application.Application - Setting theme light
+2023-05-03 14:42:36,945    DEBUG MainThread (0029) ftrack_connect.ui.config - Reading config from C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\config.json
+2023-05-03 14:42:37,425    DEBUG MainThread (0029) ftrack_connect.ui.config - Reading config from C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\config.json
+2023-05-03 14:42:37,574     INFO MainThread (0111) root - Saving log file to: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\log\ftrack_application_launcher.log
+2023-05-03 14:42:37,584    DEBUG MainThread (0036) root - Application launcher 1.0.10 using config path: ['C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-application-launcher-1.0.8\\config'] 
+2023-05-03 14:42:37,584  WARNING MainThread (0042) ftrack_application_launcher.discover_applications.DiscoverApplications - C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-application-launcher-1.0.8\config directory cannot be found.
+2023-05-03 14:42:37,600    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-05-03 14:42:37,600    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-05-03 14:42:37,600    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-05-03 14:42:37,600    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-05-03 14:42:37,600    DEBUG MainThread (0319) ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+2023-05-03 14:42:37,615    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-05-03 14:42:37,631    DEBUG MainThread (0191) ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+2023-05-03 14:42:37,950     INFO MainThread (0048) ftrack.connect.publish.make-web-playable - Subscribing to event topic: 'ftrack.connect.publish.make-web-playable'
+2023-05-03 14:42:37,950    DEBUG MainThread (0070) ftrack.connect.publish.make-web-playable - Plugin registered
+2023-05-03 14:42:37,950     INFO MainThread (0071) ftrack_connect.publish-components - Subscribing to event topic: 'ftrack.connect.publish-components'
+2023-05-03 14:42:37,950    DEBUG MainThread (0093) ftrack_connect.publish-components - Plugin registered
+2023-05-03 14:42:37,950     INFO MainThread (0133) ftrack_connect.resolver.register - Subscribing to topic ftrack.location.request-resolve
+2023-05-03 14:42:38,042     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded False
+2023-05-03 14:42:38,798     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-05-03 14:42:39,318     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-05-03 14:42:46,902     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-05-03 14:43:01,234    DEBUG Thread-17 (0098) root - Downloading https://download.ftrack.com/ftrack-connect/integrations/ftrack-connect-pipeline-qt-1.3.0.zip to C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-qt-1.3.0.zip
+2023-05-03 14:43:02,249    DEBUG Thread-17 (0131) root - Installing C:\Users\Oksana\AppData\Local\Temp\ftrack-connect-pipeline-qt-1.3.0.zip to C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-qt-1.3.0
+2023-05-03 14:43:12,692     INFO MainThread (0238) ftrack_connect.ui.application.Application - Connect restarting....
+2023-05-03 14:43:12,692    DEBUG MainThread (0089) ftrack_connect.singleton - Attempting to remove lockfile.
+2023-05-03 14:43:12,693    DEBUG MainThread (0103) ftrack_connect.singleton - Singleton C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock removed.
+2023-05-03 14:43:12,693    DEBUG MainThread (0259) ftrack_connect.ui.application.Application - Connect restarting with :: path: C:/Program Files (x86)/ftrack Connect/ftrack_connect.exe argv: []
+2023-05-03 14:43:12,696    DEBUG MainThread (0266) ftrack_connect.ui.application.Application - Connect restarted with status True
+2023-05-03 14:43:13,404     INFO MainThread (0108) root - Saving log file to: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\log\ftrack_connect.log
+2023-05-03 14:43:13,404    DEBUG MainThread (0059) ftrack_connect.singleton - SingleInstance lockfile: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock
+2023-05-03 14:43:13,415    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins' for plugin hooks.
+2023-05-03 14:43:13,416    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found ['C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-application-launcher-1.0.10\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-action-launcher-widget-0.1.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-cinema-4d-0.2.2\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-nuke-studio-2.5.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-1.3.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-definition-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-houdini-1.1.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-maya-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-nuke-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-qt-1.3.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-plugin-manager-0.1.5\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-publisher-widget-0.1.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-rv-5.0\\hook'] plugin hooks in 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins'.
+2023-05-03 14:43:13,416    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-05-03 14:43:13,416    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-05-03 14:43:13,416    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-05-03 14:43:13,416    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-05-03 14:43:13,416    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-05-03 14:43:13,417    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-05-03 14:43:13,417    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-05-03 14:43:13,417    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-05-03 14:43:13,417    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-05-03 14:43:13,417    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-05-03 14:43:13,417     INFO MainThread (0751) ftrack_connect.ui.application.Application - Connect plugin hooks directories: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-application-launcher-1.0.10\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-action-launcher-widget-0.1.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-cinema-4d-0.2.2\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-nuke-studio-2.5.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-1.3.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-definition-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-houdini-1.1.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-maya-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-nuke-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-qt-1.3.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-plugin-manager-0.1.5\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-publisher-widget-0.1.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-rv-5.0\hook, C:\Program Files (x86)\ftrack Connect\resource\hook
+2023-05-03 14:43:13,437    DEBUG MainThread (0387) ftrack_connect.ui.application.Application - Setting theme light
+2023-05-03 14:43:13,646    DEBUG MainThread (0029) ftrack_connect.ui.config - Reading config from C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\config.json
+2023-05-03 14:43:14,151    DEBUG MainThread (0029) ftrack_connect.ui.config - Reading config from C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\config.json
+2023-05-03 14:43:14,768     INFO MainThread (0111) root - Saving log file to: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\log\ftrack_application_launcher.log
+2023-05-03 14:43:14,768    DEBUG MainThread (0036) root - Application launcher 1.0.10 using config path: ['C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-application-launcher-1.0.8\\config'] 
+2023-05-03 14:43:14,768  WARNING MainThread (0042) ftrack_application_launcher.discover_applications.DiscoverApplications - C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-application-launcher-1.0.8\config directory cannot be found.
+2023-05-03 14:43:14,768    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-05-03 14:43:14,768    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-05-03 14:43:14,768    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-05-03 14:43:14,783    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-05-03 14:43:14,783    DEBUG MainThread (0319) ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+2023-05-03 14:43:14,783    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-05-03 14:43:14,783    DEBUG MainThread (0191) ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+2023-05-03 14:43:14,935     INFO MainThread (0048) ftrack.connect.publish.make-web-playable - Subscribing to event topic: 'ftrack.connect.publish.make-web-playable'
+2023-05-03 14:43:14,937    DEBUG MainThread (0070) ftrack.connect.publish.make-web-playable - Plugin registered
+2023-05-03 14:43:14,942     INFO MainThread (0071) ftrack_connect.publish-components - Subscribing to event topic: 'ftrack.connect.publish-components'
+2023-05-03 14:43:14,943    DEBUG MainThread (0093) ftrack_connect.publish-components - Plugin registered
+2023-05-03 14:43:14,944     INFO MainThread (0133) ftrack_connect.resolver.register - Subscribing to topic ftrack.location.request-resolve
+2023-05-03 14:43:14,984     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded False
+2023-05-03 14:43:15,670     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-05-03 14:43:16,130     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-05-03 14:43:27,794     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-07-05 15:32:18,325     INFO MainThread (0108) root - Saving log file to: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\log\ftrack_connect.log
+2023-07-05 15:32:18,326    DEBUG MainThread (0059) ftrack_connect.singleton - SingleInstance lockfile: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\lock
+2023-07-05 15:32:18,340    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins' for plugin hooks.
+2023-07-05 15:32:18,345    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found ['C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-application-launcher-1.0.10\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-action-launcher-widget-0.1.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-cinema-4d-0.2.2\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-nuke-studio-2.5.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-1.3.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-definition-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-houdini-1.1.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-maya-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-nuke-1.2.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-pipeline-qt-1.3.0\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-plugin-manager-0.1.5\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-publisher-widget-0.1.1\\hook', 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-connect-rv-5.0\\hook'] plugin hooks in 'C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins'.
+2023-07-05 15:32:18,345    DEBUG MainThread (0760) ftrack_connect.ui.application.Application - Searching 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins' for plugin hooks.
+2023-07-05 15:32:18,345    DEBUG MainThread (0771) ftrack_connect.ui.application.Application - Found [] plugin hooks in 'C:\\Program Files (x86)\\ftrack Connect\\resource\\connect-standard-plugins'.
+2023-07-05 15:32:18,345     INFO MainThread (0751) ftrack_connect.ui.application.Application - Connect plugin hooks directories: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-application-launcher-1.0.10\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-action-launcher-widget-0.1.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-cinema-4d-0.2.2\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-nuke-studio-2.5.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-1.3.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-definition-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-houdini-1.1.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-maya-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-nuke-1.2.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-pipeline-qt-1.3.0\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-plugin-manager-0.1.5\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-publisher-widget-0.1.1\hook, C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-connect-rv-5.0\hook, C:\Program Files (x86)\ftrack Connect\resource\hook
+2023-07-05 15:32:18,384    DEBUG MainThread (0387) ftrack_connect.ui.application.Application - Setting theme light
+2023-07-05 15:32:19,236    DEBUG MainThread (0029) ftrack_connect.ui.config - Reading config from C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\config.json
+2023-07-05 15:32:20,050    DEBUG MainThread (0029) ftrack_connect.ui.config - Reading config from C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\config.json
+2023-07-05 15:32:20,591     INFO MainThread (0111) root - Saving log file to: C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect\log\ftrack_application_launcher.log
+2023-07-05 15:32:20,596    DEBUG MainThread (0036) root - Application launcher 1.0.10 using config path: ['C:\\Users\\Oksana\\AppData\\Local\\ftrack\\ftrack-connect-plugins\\ftrack-application-launcher-1.0.10\\config'] 
+2023-07-05 15:32:20,646    DEBUG MainThread (0083) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-3dsmax
+2023-07-05 15:32:20,650    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,650    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,651    DEBUG MainThread (0132) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:3ds Max|id:ftrack-connect-launch-3dsmax|variant:None> with priority 9223372036854775807
+2023-07-05 15:32:20,651    DEBUG MainThread (0083) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-cinema-4d
+2023-07-05 15:32:20,652    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,652    DEBUG MainThread (0132) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Cinema 4D|id:ftrack-connect-launch-cinema-4d|variant:None> with priority 9223372036854775807
+2023-07-05 15:32:20,652    DEBUG MainThread (0083) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-cinesync-play
+2023-07-05 15:32:20,653    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,653    DEBUG MainThread (0132) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:cineSync Play|id:ftrack-connect-launch-cinesync-play|variant:None> with priority 9223372036854775807
+2023-07-05 15:32:20,653    DEBUG MainThread (0083) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-hiero
+2023-07-05 15:32:20,653    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,654    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,655    DEBUG MainThread (0132) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Hiero|id:ftrack-connect-launch-hiero|variant:None> with priority 9223372036854775807
+2023-07-05 15:32:20,655    DEBUG MainThread (0083) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-houdini
+2023-07-05 15:32:20,655    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,656    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,657    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,657    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,658    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,658    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,659    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,660    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,660    DEBUG MainThread (0132) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Houdini|id:ftrack-connect-launch-houdini|variant:None> with priority 100
+2023-07-05 15:32:20,660    DEBUG MainThread (0083) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-maya
+2023-07-05 15:32:20,661    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,661    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,661    DEBUG MainThread (0132) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Maya|id:ftrack-connect-launch-maya|variant:None> with priority 100
+2023-07-05 15:32:20,661    DEBUG MainThread (0083) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke
+2023-07-05 15:32:20,662    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,662    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,663    DEBUG MainThread (0132) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke|id:ftrack-connect-launch-nuke|variant:None> with priority 9223372036854775807
+2023-07-05 15:32:20,663    DEBUG MainThread (0083) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke-studio
+2023-07-05 15:32:20,663    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,663    DEBUG MainThread (0132) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke Studio|id:ftrack-connect-launch-nuke-studio|variant:None> with priority 9223372036854775807
+2023-07-05 15:32:20,664    DEBUG MainThread (0083) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nukex
+2023-07-05 15:32:20,664    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,664    DEBUG MainThread (0132) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:NukeX|id:ftrack-connect-launch-nukex|variant:None> with priority 9223372036854775807
+2023-07-05 15:32:20,664    DEBUG MainThread (0083) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke-x
+2023-07-05 15:32:20,665    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,665    DEBUG MainThread (0132) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke_X|id:ftrack-connect-launch-nuke-x|variant:None> with priority 9223372036854775807
+2023-07-05 15:32:20,665    DEBUG MainThread (0083) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unity
+2023-07-05 15:32:20,666    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,666    DEBUG MainThread (0132) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unity|id:ftrack-connect-launch-unity|variant:None> with priority 100
+2023-07-05 15:32:20,666    DEBUG MainThread (0083) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unreal-engine
+2023-07-05 15:32:20,668    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,668    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,669    DEBUG MainThread (0132) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unreal Engine|id:ftrack-connect-launch-unreal-engine|variant:None> with priority 100
+2023-07-05 15:32:20,669    DEBUG MainThread (0083) ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unreal
+2023-07-05 15:32:20,669    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,670    DEBUG MainThread (0132) ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unreal Engine|id:ftrack-connect-launch-unreal|variant:None> with priority 100
+2023-07-05 15:32:20,710    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,711    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,712    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,713    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,713    DEBUG MainThread (0319) ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+2023-07-05 15:32:20,730    DEBUG MainThread (0314) ftrack_application_launcher.ApplicationStore - Discovered applications []
+2023-07-05 15:32:20,730    DEBUG MainThread (0191) ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+2023-07-05 15:32:21,002     INFO MainThread (0048) ftrack.connect.publish.make-web-playable - Subscribing to event topic: 'ftrack.connect.publish.make-web-playable'
+2023-07-05 15:32:21,005    DEBUG MainThread (0070) ftrack.connect.publish.make-web-playable - Plugin registered
+2023-07-05 15:32:21,013     INFO MainThread (0071) ftrack_connect.publish-components - Subscribing to event topic: 'ftrack.connect.publish-components'
+2023-07-05 15:32:21,015    DEBUG MainThread (0093) ftrack_connect.publish-components - Plugin registered
+2023-07-05 15:32:21,016     INFO MainThread (0133) ftrack_connect.resolver.register - Subscribing to topic ftrack.location.request-resolve
+2023-07-05 15:32:21,086     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded False
+2023-07-05 15:32:21,882     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-07-05 15:32:22,270     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-07-05 15:32:31,569     INFO MainThread (0017) ftrack_connect - loading ftrack icon fonts from C:\Program Files (x86)\ftrack Connect\lib\ftrack_connect\fonts : resource already loaded True
+2023-07-13 11:25:18,027    ERROR Thread-25 (0035) ftrack_connect:usage - Failed to send event : USED-CONNECT
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\urllib3\connection.py", line 175, in _new_conn
+  File "C:\Python\lib\site-packages\urllib3\util\connection.py", line 95, in create_connection
+  File "C:\Python\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+TimeoutError: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\urllib3\connectionpool.py", line 710, in urlopen
+  File "C:\Python\lib\site-packages\urllib3\connectionpool.py", line 398, in _make_request
+  File "C:\Python\lib\site-packages\urllib3\connection.py", line 239, in request
+  File "C:\Python\lib\http\client.py", line 1277, in request
+  File "C:\Python\lib\http\client.py", line 1323, in _send_request
+  File "C:\Python\lib\http\client.py", line 1272, in endheaders
+  File "C:\Python\lib\http\client.py", line 1032, in _send_output
+  File "C:\Python\lib\http\client.py", line 972, in send
+  File "C:\Python\lib\site-packages\urllib3\connection.py", line 205, in connect
+  File "C:\Python\lib\site-packages\urllib3\connection.py", line 187, in _new_conn
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001C95B86C2C8>: Failed to establish a new connection: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\requests\adapters.py", line 449, in send
+  File "C:\Python\lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+  File "C:\Python\lib\site-packages\urllib3\util\retry.py", line 592, in increment
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='ftrack.postmodern.digital', port=80): Max retries exceeded with url: /api (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C95B86C2C8>: Failed to establish a new connection: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python\lib\site-packages\ftrack_connect-2.0.1-py3.7.egg\ftrack_connect\usage.py", line 32, in _send_event
+  File "C:\Python\lib\site-packages\ftrack_api\session.py", line 1663, in call
+  File "C:\Python\lib\site-packages\requests\sessions.py", line 590, in post
+  File "C:\Python\lib\site-packages\requests\sessions.py", line 542, in request
+  File "C:\Python\lib\site-packages\requests\sessions.py", line 655, in send
+  File "C:\Python\lib\site-packages\requests\adapters.py", line 516, in send
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='ftrack.postmodern.digital', port=80): Max retries exceeded with url: /api (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C95B86C2C8>: Failed to establish a new connection: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера'))

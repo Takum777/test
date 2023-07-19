@@ -1,0 +1,283 @@
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-3dsmax
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:3ds Max|id:ftrack-connect-launch-3dsmax|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-adobe-pipeline-premiere
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Adobe Premiere|id:ftrack-connect-launch-adobe-pipeline-premiere|variant:None> with priority 100
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-cinema-4d
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Cinema 4D|id:ftrack-connect-launch-cinema-4d|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-cinesync-play
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:cineSync Play|id:ftrack-connect-launch-cinesync-play|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-hiero
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Hiero|id:ftrack-connect-launch-hiero|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-houdini
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,638 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Houdini|id:ftrack-connect-launch-houdini|variant:None> with priority 100
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-maya
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Maya|id:ftrack-connect-launch-maya|variant:None> with priority 100
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke|id:ftrack-connect-launch-nuke|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke-studio
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke Studio|id:ftrack-connect-launch-nuke-studio|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nukex
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:NukeX|id:ftrack-connect-launch-nukex|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke-x
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke_X|id:ftrack-connect-launch-nuke-x|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unity
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unity|id:ftrack-connect-launch-unity|variant:None> with priority 100
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unreal-engine
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unreal Engine|id:ftrack-connect-launch-unreal-engine|variant:None> with priority 100
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unreal
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,653 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unreal Engine|id:ftrack-connect-launch-unreal|variant:None> with priority 100
+DEBUG - MainThread - 2023-03-10 12:26:06,707 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,707 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,707 - ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+DEBUG - MainThread - 2023-03-10 12:26:06,707 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 12:26:06,707 - ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+DEBUG - MainThread - 2023-03-10 17:17:43,597 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-3dsmax
+DEBUG - MainThread - 2023-03-10 17:17:43,599 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,600 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,600 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:3ds Max|id:ftrack-connect-launch-3dsmax|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-03-10 17:17:43,600 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-adobe-pipeline-premiere
+DEBUG - MainThread - 2023-03-10 17:17:43,600 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,601 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Adobe Premiere|id:ftrack-connect-launch-adobe-pipeline-premiere|variant:None> with priority 100
+DEBUG - MainThread - 2023-03-10 17:17:43,601 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-cinema-4d
+DEBUG - MainThread - 2023-03-10 17:17:43,602 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,602 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Cinema 4D|id:ftrack-connect-launch-cinema-4d|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-03-10 17:17:43,602 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-cinesync-play
+DEBUG - MainThread - 2023-03-10 17:17:43,603 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,603 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:cineSync Play|id:ftrack-connect-launch-cinesync-play|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-03-10 17:17:43,603 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-hiero
+DEBUG - MainThread - 2023-03-10 17:17:43,604 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,605 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,606 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Hiero|id:ftrack-connect-launch-hiero|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-03-10 17:17:43,606 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-houdini
+DEBUG - MainThread - 2023-03-10 17:17:43,606 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,607 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,607 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,608 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,609 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,609 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,610 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,610 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,610 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Houdini|id:ftrack-connect-launch-houdini|variant:None> with priority 100
+DEBUG - MainThread - 2023-03-10 17:17:43,611 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-maya
+DEBUG - MainThread - 2023-03-10 17:17:43,611 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,612 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,612 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Maya|id:ftrack-connect-launch-maya|variant:None> with priority 100
+DEBUG - MainThread - 2023-03-10 17:17:43,612 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke
+DEBUG - MainThread - 2023-03-10 17:17:43,612 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,613 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,613 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke|id:ftrack-connect-launch-nuke|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-03-10 17:17:43,613 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke-studio
+DEBUG - MainThread - 2023-03-10 17:17:43,614 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,614 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke Studio|id:ftrack-connect-launch-nuke-studio|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-03-10 17:17:43,614 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nukex
+DEBUG - MainThread - 2023-03-10 17:17:43,614 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,615 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:NukeX|id:ftrack-connect-launch-nukex|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-03-10 17:17:43,615 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke-x
+DEBUG - MainThread - 2023-03-10 17:17:43,615 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,615 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke_X|id:ftrack-connect-launch-nuke-x|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-03-10 17:17:43,616 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unity
+DEBUG - MainThread - 2023-03-10 17:17:43,616 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,617 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unity|id:ftrack-connect-launch-unity|variant:None> with priority 100
+DEBUG - MainThread - 2023-03-10 17:17:43,617 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unreal-engine
+DEBUG - MainThread - 2023-03-10 17:17:43,618 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,618 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,618 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unreal Engine|id:ftrack-connect-launch-unreal-engine|variant:None> with priority 100
+DEBUG - MainThread - 2023-03-10 17:17:43,618 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unreal
+DEBUG - MainThread - 2023-03-10 17:17:43,619 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,619 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unreal Engine|id:ftrack-connect-launch-unreal|variant:None> with priority 100
+DEBUG - MainThread - 2023-03-10 17:17:43,667 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,668 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,668 - ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+DEBUG - MainThread - 2023-03-10 17:17:43,675 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-03-10 17:17:43,675 - ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+DEBUG - MainThread - 2023-04-14 15:41:57,135 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-3dsmax
+DEBUG - MainThread - 2023-04-14 15:41:57,144 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,146 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,146 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:3ds Max|id:ftrack-connect-launch-3dsmax|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-04-14 15:41:57,147 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-adobe-pipeline-premiere
+DEBUG - MainThread - 2023-04-14 15:41:57,149 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,149 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Adobe Premiere|id:ftrack-connect-launch-adobe-pipeline-premiere|variant:None> with priority 100
+DEBUG - MainThread - 2023-04-14 15:41:57,150 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-cinema-4d
+DEBUG - MainThread - 2023-04-14 15:41:57,153 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,154 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Cinema 4D|id:ftrack-connect-launch-cinema-4d|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-04-14 15:41:57,155 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-cinesync-play
+DEBUG - MainThread - 2023-04-14 15:41:57,158 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,159 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:cineSync Play|id:ftrack-connect-launch-cinesync-play|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-04-14 15:41:57,159 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-hiero
+DEBUG - MainThread - 2023-04-14 15:41:57,161 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,164 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,164 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Hiero|id:ftrack-connect-launch-hiero|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-04-14 15:41:57,165 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-houdini
+DEBUG - MainThread - 2023-04-14 15:41:57,167 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,170 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,172 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,174 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,176 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,178 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,180 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,182 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,182 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Houdini|id:ftrack-connect-launch-houdini|variant:None> with priority 100
+DEBUG - MainThread - 2023-04-14 15:41:57,183 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-maya
+DEBUG - MainThread - 2023-04-14 15:41:57,184 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,186 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,187 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Maya|id:ftrack-connect-launch-maya|variant:None> with priority 100
+DEBUG - MainThread - 2023-04-14 15:41:57,188 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke
+DEBUG - MainThread - 2023-04-14 15:41:57,190 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,191 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,192 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke|id:ftrack-connect-launch-nuke|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-04-14 15:41:57,193 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke-studio
+DEBUG - MainThread - 2023-04-14 15:41:57,194 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,195 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke Studio|id:ftrack-connect-launch-nuke-studio|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-04-14 15:41:57,196 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nukex
+DEBUG - MainThread - 2023-04-14 15:41:57,198 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,198 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:NukeX|id:ftrack-connect-launch-nukex|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-04-14 15:41:57,199 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke-x
+DEBUG - MainThread - 2023-04-14 15:41:57,201 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,201 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke_X|id:ftrack-connect-launch-nuke-x|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-04-14 15:41:57,202 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unity
+DEBUG - MainThread - 2023-04-14 15:41:57,206 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,206 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unity|id:ftrack-connect-launch-unity|variant:None> with priority 100
+DEBUG - MainThread - 2023-04-14 15:41:57,208 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unreal-engine
+DEBUG - MainThread - 2023-04-14 15:41:57,212 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,214 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,215 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unreal Engine|id:ftrack-connect-launch-unreal-engine|variant:None> with priority 100
+DEBUG - MainThread - 2023-04-14 15:41:57,215 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unreal
+DEBUG - MainThread - 2023-04-14 15:41:57,217 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,217 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unreal Engine|id:ftrack-connect-launch-unreal|variant:None> with priority 100
+DEBUG - MainThread - 2023-04-14 15:41:57,409 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,411 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,412 - ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+DEBUG - MainThread - 2023-04-14 15:41:57,442 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:41:57,443 - ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+WARNING - MainThread - 2023-04-14 15:56:46,594 - ftrack_application_launcher.discover_applications.DiscoverApplications - C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-application-launcher-1.0.8\config directory cannot be found.
+DEBUG - MainThread - 2023-04-14 15:56:46,605 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:56:46,607 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:56:46,611 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:56:46,614 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:56:46,615 - ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+DEBUG - MainThread - 2023-04-14 15:56:46,640 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-04-14 15:56:46,641 - ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+WARNING - MainThread - 2023-05-03 14:35:45,883 - ftrack_application_launcher.discover_applications.DiscoverApplications - C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-application-launcher-1.0.8\config directory cannot be found.
+DEBUG - MainThread - 2023-05-03 14:35:45,890 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-05-03 14:35:45,891 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-05-03 14:35:45,892 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-05-03 14:35:45,894 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-05-03 14:35:45,894 - ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+DEBUG - MainThread - 2023-05-03 14:35:45,910 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-05-03 14:35:45,911 - ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+WARNING - MainThread - 2023-05-03 14:42:37,584 - ftrack_application_launcher.discover_applications.DiscoverApplications - C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-application-launcher-1.0.8\config directory cannot be found.
+DEBUG - MainThread - 2023-05-03 14:42:37,600 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-05-03 14:42:37,600 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-05-03 14:42:37,600 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-05-03 14:42:37,600 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-05-03 14:42:37,600 - ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+DEBUG - MainThread - 2023-05-03 14:42:37,615 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-05-03 14:42:37,631 - ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+WARNING - MainThread - 2023-05-03 14:43:14,768 - ftrack_application_launcher.discover_applications.DiscoverApplications - C:\Users\Oksana\AppData\Local\ftrack\ftrack-connect-plugins\ftrack-application-launcher-1.0.8\config directory cannot be found.
+DEBUG - MainThread - 2023-05-03 14:43:14,768 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-05-03 14:43:14,768 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-05-03 14:43:14,768 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-05-03 14:43:14,783 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-05-03 14:43:14,783 - ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+DEBUG - MainThread - 2023-05-03 14:43:14,783 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-05-03 14:43:14,783 - ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+DEBUG - MainThread - 2023-07-05 15:32:20,646 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-3dsmax
+DEBUG - MainThread - 2023-07-05 15:32:20,650 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,650 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,651 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:3ds Max|id:ftrack-connect-launch-3dsmax|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-07-05 15:32:20,651 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-cinema-4d
+DEBUG - MainThread - 2023-07-05 15:32:20,652 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,652 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Cinema 4D|id:ftrack-connect-launch-cinema-4d|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-07-05 15:32:20,652 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-cinesync-play
+DEBUG - MainThread - 2023-07-05 15:32:20,653 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,653 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:cineSync Play|id:ftrack-connect-launch-cinesync-play|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-07-05 15:32:20,653 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-hiero
+DEBUG - MainThread - 2023-07-05 15:32:20,653 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,654 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,655 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Hiero|id:ftrack-connect-launch-hiero|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-07-05 15:32:20,655 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-houdini
+DEBUG - MainThread - 2023-07-05 15:32:20,655 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,656 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,657 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,657 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,658 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,658 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,659 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,660 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,660 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Houdini|id:ftrack-connect-launch-houdini|variant:None> with priority 100
+DEBUG - MainThread - 2023-07-05 15:32:20,660 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-maya
+DEBUG - MainThread - 2023-07-05 15:32:20,661 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,661 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,661 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Maya|id:ftrack-connect-launch-maya|variant:None> with priority 100
+DEBUG - MainThread - 2023-07-05 15:32:20,661 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke
+DEBUG - MainThread - 2023-07-05 15:32:20,662 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,662 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,663 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke|id:ftrack-connect-launch-nuke|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-07-05 15:32:20,663 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke-studio
+DEBUG - MainThread - 2023-07-05 15:32:20,663 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,663 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke Studio|id:ftrack-connect-launch-nuke-studio|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-07-05 15:32:20,664 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nukex
+DEBUG - MainThread - 2023-07-05 15:32:20,664 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,664 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:NukeX|id:ftrack-connect-launch-nukex|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-07-05 15:32:20,664 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-nuke-x
+DEBUG - MainThread - 2023-07-05 15:32:20,665 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,665 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Nuke_X|id:ftrack-connect-launch-nuke-x|variant:None> with priority 9223372036854775807
+DEBUG - MainThread - 2023-07-05 15:32:20,665 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unity
+DEBUG - MainThread - 2023-07-05 15:32:20,666 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,666 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unity|id:ftrack-connect-launch-unity|variant:None> with priority 100
+DEBUG - MainThread - 2023-07-05 15:32:20,666 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unreal-engine
+DEBUG - MainThread - 2023-07-05 15:32:20,668 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,668 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,669 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unreal Engine|id:ftrack-connect-launch-unreal-engine|variant:None> with priority 100
+DEBUG - MainThread - 2023-07-05 15:32:20,669 - ftrack_application_launcher.discover_applications.DiscoverApplications - building config store for ftrack-connect-launch-unreal
+DEBUG - MainThread - 2023-07-05 15:32:20,669 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,670 - ftrack_application_launcher.discover_applications.DiscoverApplications - Creating App launcher <label:Unreal Engine|id:ftrack-connect-launch-unreal|variant:None> with priority 100
+DEBUG - MainThread - 2023-07-05 15:32:20,710 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,711 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,712 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,713 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,713 - ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
+DEBUG - MainThread - 2023-07-05 15:32:20,730 - ftrack_application_launcher.ApplicationStore - Discovered applications []
+DEBUG - MainThread - 2023-07-05 15:32:20,730 - ftrack_application_launcher.ApplicationStore - Discovered applications:
+[]
